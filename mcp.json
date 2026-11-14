@@ -1,0 +1,11 @@
+{
+  "name": "mcp-go-arabic-sarf",
+  "protocol": "mcp/1.0",
+  "version": "1.0.0",
+  "tools": [
+    {
+      "name": "query_arabic_sarf",
+      "description": "Execute arabic-sarf MCP tool"
+    }
+  ]
+}
